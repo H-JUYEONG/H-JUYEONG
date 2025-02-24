@@ -28,7 +28,9 @@
     개발 관련 글과 자료들을 정리하고 있습니다.
   </p>
   <div align="center">
-    [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://dud9902.tistory.com/)
+   <a href="https://dud9902.tistory.com/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
     &nbsp;
   </div>
 </div>
