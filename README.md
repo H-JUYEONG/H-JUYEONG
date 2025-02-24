@@ -15,6 +15,9 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+    <a href="https://www.notion.so/1650704414188072af09dec3864e6cdb" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    </a>
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
@@ -34,10 +37,8 @@
     <a href="https://dud9902.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
-    &nbsp; <!-- 공백 추가 -->
-    <a href="https://www.notion.so/1650704414188072af09dec3864e6cdb" target="_blank">
-      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-    </a>
+    &nbsp;
+    
   </div>
 
 </div>
