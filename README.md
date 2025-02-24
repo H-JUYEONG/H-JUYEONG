@@ -18,11 +18,26 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> blog </h2> <br> 
-    <div align= "center"> <a href=https://dud9902.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://dud9902.tistory.com/"> </a>
-         <a href=https://www.notion.so/1650704414188072af09dec3864e6cdb> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/1650704414188072af09dec3864e6cdb"> </a>
-          </div>  <br> 
-    <div align= "center">  </div> 
-    </div>
-    
+<div align="center">
+
+  <h2 style="border-bottom: 2px solid #d8dee4; padding-bottom: 5px; color: #282d33;">📚 Blog</h2>
+  <br>
+
+  <p>
+    다양한 기록을 남기는 공간입니다! <br>
+    개발 관련 글과 자료들을 정리하고 있습니다.
+  </p>
+
+  <br>
+
+  <div align="center">
+    <a href="https://dud9902.tistory.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
+    &nbsp; <!-- 공백 추가 -->
+    <a href="https://www.notion.so/1650704414188072af09dec3864e6cdb" target="_blank">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+    </a>
+  </div>
+
+</div>
