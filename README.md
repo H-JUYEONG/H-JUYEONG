@@ -19,6 +19,6 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<p align='center'>
-[![H-JUYEONG's GitHub stats](https://github-readme-stats.vercel.app/api?username=H-JUYEONG&theme=dark&show_icons=true)](https://github.com/H-JUYEONG)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=H-JUYEONG&theme=dark&show_icons=true" />
 </p>
