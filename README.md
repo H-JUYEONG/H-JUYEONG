@@ -29,9 +29,9 @@
     개발 관련 글과 자료들을 정리하고 있습니다.
   </p>
   <div align="center">
-    <a href="https://dud9902.tistory.com/" target="_blank">
+<!--     <a href="https://dud9902.tistory.com/" target="_blank">
       <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
-    </a>
+    </a> -->
     &nbsp;
   </div>
 </div>
