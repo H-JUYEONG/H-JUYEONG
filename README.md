@@ -22,7 +22,8 @@
     <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
-<-- <div align="center">
+<!-- 
+ <div align="center">
   <h2 style="border-bottom: 2px solid #d8dee4; padding-bottom: 5px; color: #282d33;">📚 Blog</h2>
   <p>
     다양한 기록을 남기는 공간입니다! <br>
