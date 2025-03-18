@@ -27,7 +27,7 @@
   <h2 style="border-bottom: 2px solid #d8dee4; padding-bottom: 5px; color: #282d33;">📚 Blog</h2> 
   <p>
     다양한 기록을 남기는 공간입니다! <br>
-    개발 관련 글과 자료들을 정리하고 있습니다.
+    개발 관련 글과 자료들을 정리하고 있습니다
   </p>
   <div align="center">
      <a href="https://dud9902.tistory.com/" target="_blank">
