@@ -24,7 +24,7 @@
 
 <!--
  <div align="center">
-  <h2 style="border-bottom: 2px solid #d8dee4; padding-bottom: 5px; color: #282d33;">📚 Blogf</h2> 
+  <h2 style="border-bottom: 2px solid #d8dee4; padding-bottom: 5px; color: #282d33;">📚 Blog</h2> 
   <p>
     다양한 기록을 남기는 공간입니다! <br>
     개발 관련 글과 자료들을 정리하고 있습니다.
